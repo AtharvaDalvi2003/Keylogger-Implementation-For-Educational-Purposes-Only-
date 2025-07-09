@@ -37,7 +37,6 @@ pip install pynput
 - 🧪 Lightweight and easy to understand for ethical testing
 
 - 🔐 Demonstrates vulnerabilities in systems lacking input monitoring protections
-
 ```
 ```
 ---
@@ -53,7 +52,7 @@ keylogger-educational/
 ## 🚀 How to Run
 1. Clone the repository
 ```
-git clone https://github.com/your-username/keylogger-educational.git
+git clone https://github.com/AtharvaDalvi2003/keylogger-educational.git
 cd keylogger-educational
 ```
 2. Run the keylogger script
