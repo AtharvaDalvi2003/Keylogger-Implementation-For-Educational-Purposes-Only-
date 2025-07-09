@@ -27,7 +27,8 @@ Before running the script, install the required Python library:
 
 ```bash
 pip install pynput
-
+```
+---
 ## 🔍 Features
 - ⌨️ Captures every keystroke typed on the keyboard
 
@@ -37,6 +38,7 @@ pip install pynput
 
 - 🔐 Demonstrates vulnerabilities in systems lacking input monitoring protections
 
+```
 ```
 ---
 ## 📁 Project Structure
